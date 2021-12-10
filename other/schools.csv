@@ -1,0 +1,94 @@
+﻿school_name,dept_name,city,state,zip,distance_to_upenn,highest_degree_offered,is_private
+University of Pennsylvania,Mathematics,Philadelphia,PA,19104,0,Doctoral,1
+Drexel University,Mathematics and Computer Science,Philadelphia,PA,19104,0.6,Doctoral,1
+University of the Sciences,"Mathematics, Physics, Computer Science",Philadelphia,PA,19104,0.6,Baccalaureate,1
+Peirce College,Mathematics,Philadelphia,PA,19102,1.3,Baccalaureate,1
+Community College of Philadelphia,Mathematics,Philadelphia,PA,19130,2.1,Associate,0
+Temple University,Mathematics,Philadelphia,PA,19122,3.6,Doctoral,0
+"Temple University, Statistics",Statistical Science, Philadelphia,PA,19122,3.7,Doctoral,0
+Saint Joseph's University,Mathematics and Computer Science,Philadelphia,PA,19131,5.5,Masters,1
+La Salle University,Mathematics and Computer Science,Philadelphia,PA,19141,8.5,Baccalaureate,1
+Bryn Mawr College,Mathematics,Bryn Mawr,PA,19010,12.7,Doctoral,1
+Chestnut Hill College,Mathematics,Philadelphia,PA,19118,12.8,Baccalaureate,1
+Villanova University,Mathematical Sciences,Villanova,PA,19085,13,Doctoral,1
+Widener University,Mathematics,Chester,PA,19013,13.3,Baccalaureate,1
+Haverford College,Mathematics and Statistics,Haverford,PA,19041,13.4,Baccalaureate,1
+Arcadia University,Computer Science and Mathematics,Glenside,PA,19038,13.5,Baccalaureate,1
+"Montgomery County Community College, West Campus",Mathematics,Blue Bell,PA,19422,13.5,Associate,0
+Harcum College,Liberal Arts and Science,Bryn Mawr,PA,19010,13.7,Baccalaureate,1
+Manor College,Mathematics Division,Jenkintown,PA,19046,14.4,Associate,1
+Holy Family University,Mathematics,Philadelphia,PA,19114,15,Baccalaureate,1
+Penn State University Abington,Mathematics,Abington,PA,19001,15,Baccalaureate,0
+Swarthmore College,Mathematics and Statistics,Swarthmore,PA,19081,16.8,Baccalaureate,1
+Eastern University,Mathematical Sciences,St Davids,PA,19087,17.1,Doctoral,1
+Pennsylviania Institute of Technology,"Electronics, Mathematics and Science Division ",Media,PA,19063,17.5,Associate,1
+Rosemont College,Mathematics,Rosemont,PA,19010,17.8,Baccalaureate,1
+Bryn Athyn College,"Business, Computer Science, and Mathematics",Bryn Athyn,PA,19009,18.3,Baccalaureate,1
+Cabrini College,Mathematics,Radnor,PA,19087,18.5,Baccalaureate,1
+Neumann University,Mathematics,Aston,PA,19014,19.2,Doctoral,1
+Delaware County Community College,Mathematics,Media,PA,19063,21.8,Associate,0
+Penn State University Brandywine,Mathematics,Media,PA,19063,22.9,Baccalaureate,0
+Cheyney University,Mathematics and Computer Science,Cheyney,PA,19319,26.5,Baccalaureate,0
+Gwynedd-Mercy College,Mathematics,Gwynedd Valley,PA,19437,29.9,Baccalaureate,1
+Ursinus College,Mathematics and Computer Science,Collegeville,PA,19426,30.2,Baccalaureate,1
+Immaculata University,Mathematics,Immaculata,PA,19345,31.2,Masters,1
+West Chester University,Mathematics,West Chester,PA,19383,31.7,Masters,0
+Wilmington University,Mathematics,New Castle,DE,19720,31.7,Doctoral,0
+"Delaware Technical Community College, Newark Campus",Mathematics and Physics,Newark,DE,19713,34,Associate,0
+Goldey-Beacom College,Mathematics,Wilmington,DE,19808,35.7,Doctoral,1
+Bucks County Community College,"Science, Technology, Engineering, & Mathematics",Newtown,PA,18940,36.5,Associate,0
+Delaware Valley University,Mathematics and Physics,Doylestown,PA,18901,38.2,Baccalaureate,1
+"Montgomery County Community College, Central Campus",Mathematics,Pottstown,PA,19464,40.4,Associate,0
+University of Delaware,Mathematical Sciences,Newark,DE,19716,41.6,Doctoral,0
+Lincoln University,Mathematics and Computer Science,Lincoln University,PA,19352,46.9,Baccalaureate,0
+DeSales University,Mathematics and Computer Science,Center Valley,PA,18034,51.4,Baccalaureate,1
+Penn State University Lehigh Valley,Mathematics,Center Valley,PA,18034,53,Baccalaureate,0
+Lehigh University,Mathematics,Bethlehem,PA,18015,56.6,Doctoral,1
+Alvernia College,Mathematics,Reading,PA,19607,59.4,Baccalaureate,1
+Cedar Crest College,Mathematical and Information Sciences,Allentown,PA,18104,60.3,Baccalaureate,1
+Muhlenberg College,Mathematics and Computer Science,Allentown,PA,18104,60.6,Baccalaureate,1
+Penn State University Berks,Mathematics,Reading,PA,19610,65,Baccalaureate,0
+Albright College,Mathematics,Reading,PA,19612,67.4,Baccalaureate,1
+Moravian College,Mathematics and Computer Science,Bethlehem,PA,18018,68.5,Baccalaureate,1
+Northampton Community College,Mathematics,Bethlehem,PA,18020,71,Associate,0
+"Delaware Technical Community College, Terry Campus",Mathematics,Dover,DE,19904,72.5,Associate,0
+Delaware State University,Mathematical Sciences,Dover,DE,19901,73.1,Masters,0
+Millersville University,Mathematics,Millersville,PA,17551,73.2,Masters,0
+Kutztown University,Mathematics,Kutztown,PA,19530,74,Masters,0
+Lehigh Carbon Community College,Mathematics,Schnecksville,PA,18078,75.9,Associate,0
+Wesley College,Mathematics and Statistics,Dover,DE,19901,77.1,Baccalaureate,1
+Lancaster Bible College,Mathematics and Natural Science,Lancaster,PA,17601,77.3,Baccalaureate,1
+Lafayette College,Mathematics,Easton,PA,18042,77.6,Baccalaureate,1
+Franklin & Marshall College,Mathematics,Lancaster,PA,17604,80.4,Baccalaureate,1
+Lebanon Valley College,Mathematical Sciences,Annville,PA,17003,88.3,Baccalaureate,1
+Penn State University Schuykill,Mathematics,Schuylkill Haven,PA,17972,91.6,Baccalaureate,0
+Elizabethtown College,Mathematical Sciences,Elizabethtown,PA,17022,93.7,Baccalaureate,1
+Penn State University York,Mathematics,York,PA,17403,95.5,Baccalaureate,0
+East Stroudsburg University,Mathematics,East Stroudsburg,PA,18301,101,Baccalaureate,0
+Penn State University Harrisburg,Mathematical Sciences and Computer Science,Middletown,PA,17057,103,Doctoral,0
+Penn State University Hazleton,Mathematics,Hazleton,PA,18201,103,Baccalaureate,0
+York College,Physical Sciences,York,PA,17405,103,Baccalaureate,1
+Harrisburg Area Community College,"Mathenatics, Science, and Allied Health",Harrisburg,PA,17110,109,Associate,0
+King's College,Mathematics and Computer Science,Wilkes-Barre,PA,18711,112,Baccalaureate,1
+Messiah College,Mathematical Sciences,Mechanicsburg,PA,17055,113,Baccalaureate,1
+Wilkes University,Mathematics and Computer Science,Wilkes-Barre,PA,18766,113,Doctoral,1
+Misericordia University,Mathematics,Dallas,PA,18612,119,Baccalaureate,1
+Luzerne County Community College,Mathematics and Computer Science,Nanticoke,PA,18634,120,Associate,0
+Penn State University Wilkes-Barre,Mathematics,Lehman,PA,18627,121,Baccalaureate,0
+Dickinson College,Mathematics and Computer Science,Carlisle,PA,17013,123,Baccalaureate,1
+Lackawanna College,Mathematics,Scranton,PA,18505,124,Associate,1
+University of Scranton,Mathematics,Scranton,PA,18510,124,Baccalaureate,1
+Marywood University,Mathematics and Computer Science,Scranton,PA,18509,127,Baccalaureate,1
+Penn State University Scranton,Mathematics,Dunmore,PA,18512,127,Baccalaureate,0
+Bloomsburg University,Mathematical and Digital Sciences,Bloomsburg,PA,17815,136,Baccalaureate,0
+Keystone College,Biological and Physical Science and Mathematics,La Plume,PA,18440,138,Baccalaureate,1
+Gettysburg College,Mathematics and Computer Science,Gettysburg,PA,17325,139,Baccalaureate,1
+Shippensburg University,Mathematics,Shippensburg,PA,17257,146,Masters,0
+Susquehanna University,Mathematical Sciences,Selinsgrove,PA,17870,153,Baccalaureate,1
+Wilson College,Physical and Life Sciences,Chambersburg,PA,17201,157,Baccalaureate,1
+Penn State University Mont Alto,Mathematics,Mont Alto,PA,17237,163,Baccalaureate,0
+Bucknell University,Mathematics,Lewisburg,PA,17837,168,Doctoral,1
+Lycoming College,Mathematical Sciences,Williamsport,PA,17701,177,Baccalaureate,1
+Pennsylvania College of Technology,Mathematics,Williamsport,PA,17701,178,Baccalaureate,0
+Lock Haven University,Mathematics,Lock Haven,PA,17745,201,Baccalaureate,0
+Mansfield University,Mathematics and Computer and Information Science,Mansfield,PA,16933,225,Baccalaureate,0
